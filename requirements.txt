@@ -1,0 +1,6 @@
+streamlit>=1.28.0
+youtube-transcript-api>=0.6.2
+google-generativeai>=0.8.0
+python-dotenv>=1.0.0
+# Optional: pin if you hit API changes
+# youtube-transcript-api==1.2.4
